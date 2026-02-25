@@ -11,20 +11,19 @@ namespace console_calculator
     {
        static int Add(int x,int y)
         {
-          // update consoleee 
+          // update add 
             return x + y;
 
         }
         static int Subtrtact (int x,int y)
         {
-          // subtract
+        
             return x - y;
 
         }
         static int Multiply (int x,int y)
         {
-            // update eslam
-            int w;
+            
             return x * y;
         }
         static double Divide(int x, int y)
