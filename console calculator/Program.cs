@@ -28,7 +28,8 @@ namespace console_calculator
         }
         static double Divide(int x, int y)
         {
-           
+            // update divide
+            // check if y is zero to avoid division by zero error
             return (double)(x) / y;
 
         }    
