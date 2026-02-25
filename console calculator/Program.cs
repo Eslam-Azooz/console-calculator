@@ -17,13 +17,13 @@ namespace console_calculator
         }
         static int Subtrtact (int x,int y)
         {
-        
+            // update subtract
             return x - y;
 
         }
         static int Multiply (int x,int y)
         {
-            
+            // update multiply
             return x * y;
         }
         static double Divide(int x, int y)
